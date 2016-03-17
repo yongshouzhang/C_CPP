@@ -1,1 +1,0 @@
-hello c_cpp
