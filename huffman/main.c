@@ -20,7 +20,7 @@ puts("\n");
        
         huffmantree=creattree(weight);
 	hc=creatcode(huffmantree,hc);  
-        fp=fopen("D:\\MyDocuments\\Documents\\C_Files\\√¸¡Ó––±‡“Î\\huffman\\huffman.txt","w+");
+        fp=fopen("huffman.txt","w+");
          if(fp==NULL)
            {
              puts("open the file falied!");
